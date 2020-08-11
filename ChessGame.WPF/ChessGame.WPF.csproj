@@ -95,7 +95,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleChessGame\ChessGame.Core.csproj">
+    <ProjectReference Include="..\ChessGame.Core\ChessGame.Core.csproj">
       <Project>{76F7CDA4-9FFE-45E3-9C5C-1A96FE0D259A}</Project>
       <Name>ChessGame.Core</Name>
     </ProjectReference>

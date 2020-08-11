@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGame.Core", "ConsoleChessGame\ChessGame.Core.csproj", "{76F7CDA4-9FFE-45E3-9C5C-1A96FE0D259A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGame.Core", "ChessGame.Core\ChessGame.Core.csproj", "{76F7CDA4-9FFE-45E3-9C5C-1A96FE0D259A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGame.WPF", "ConsoleChessGame.WPF\ChessGame.WPF.csproj", "{44722513-B895-442E-9444-2A39881F6526}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessGame.WPF", "ChessGame.WPF\ChessGame.WPF.csproj", "{44722513-B895-442E-9444-2A39881F6526}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
